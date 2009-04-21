@@ -1,0 +1,59 @@
+# INSTALL for Featured Photo
+# $Id: INSTALL,v 1.13 2008/03/30 14:18:19 blindman1344 Exp $
+
+
+===== IMPORTANT =====
+
+This version of Featured Photo requires phpWebSite 1.5.0 or higher. You
+have to install phpWebSite >= 1.5.0 first - earlier versions of phpWebSite
+will not work. If you are running phpWebSite 0.10.x, grab the latest 0.x.x
+version of this module.
+
+If you don't have phpWebSite installed, first get the latest code here:
+http://sourceforge.net/project/showfiles.php?group_id=15539
+
+Then follow the install instructions found in the INSTALL file included in
+the docs directory of that download.
+
+In addition, for upgrades only, you must have Featured Photo 1.1.0 or later
+installed.  Upgrades from 1.0.x are no longer supported.
+
+Once this is done then you can start installing Featured Photo.
+
+
+===== INSTALLATION =====
+
+1. BACKUP YOUR DATABASE.  Never install this or any other module without
+   doing this.
+
+2. Download the .tar.gz or .zip file from sourceforge and unpack it.
+
+3. Move the new directory into your phpwebsite mod directory.
+
+    Example: If your phpwebsite directory is /home/httpd/htdocs, you would run:
+
+    mv featuredphoto /home/httpd/htdocs/mod/featuredphoto
+
+4. Go to your phpWS website and install or upgrade "Featured Photo" from the
+   Boost module.
+
+5. Log out and log back in to your site to reset your environment before
+   using the module.
+
+   The module is now installed.  You can get there by going to "Control Panel"
+   and clicking on "Content".
+
+
+===== UPGRADING FROM FEATURED PHOTO 0.x.x =====
+
+Version 1.0.4 was the last version to include the Feature Photo conversion
+script.  You will need to use that version to convert from Featured Photo 0.x.x.
+After completing the conversion, you can upgrade to this version.
+
+
+===== PROBLEMS? =====
+
+If you are having trouble with these procedures please file a Support Request
+at our sourceforge.net project site:
+
+http://sourceforge.net/tracker/?func=browse&group_id=81360&atid=706226

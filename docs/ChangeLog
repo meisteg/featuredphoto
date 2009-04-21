@@ -1,0 +1,85 @@
+# ChangeLog for featuredphoto
+# $Id: ChangeLog,v 1.31 2008/03/30 14:18:18 blindman1344 Exp $
+
+
+========================== PHPWEBSITE 1.X.X RELEASES ==========================
+
+*featuredphoto-1.2.1 (30 Mar 2008)
+
+    Support File Cabinet 2.0 (phpWebSite 1.5.0 or later now required)
+    Corrected a few phrases that were not being translated.
+
+*featuredphoto-1.2.0 (28 Jan 2008)
+
+    Now use PHPWS_LIST_TOGGLE_CLASS for toggle class when listing items.
+    RFE #1880295: Can now pin a photo block to all pages
+    RFE #1880296: Added Flickr support
+    Added German translation (Thanks Peter Heppner)
+
+*featuredphoto-1.1.0 (14 Oct 2007)
+
+    Switched to use new logIfError() function in the core.
+    BUG #1804397: Now using Image Manager from File Cabinet to manage photos.
+    Updated to new translation functions introduced in phpWebSite 1.2.0.
+    Cleaned up look of about file.
+
+*featuredphoto-1.0.4 (02 Dec 2006)
+
+    Alternate text to images can now be translated.
+    Default info file added for conversions.
+    Title attribute added to images.
+
+*featuredphoto-1.0.3 (22 Oct 2006)
+
+    Fixed conversion script.
+    Removed ampersands from constructors.
+
+*featuredphoto-1.0.2 (15 Oct 2006)
+
+    Added en_US translation to conversion script.
+
+*featuredphoto-1.0.1 (07 Oct 2006)
+
+    Fixed parse error on PHP4 hosts.
+
+*featuredphoto-1.0.0 (05 Oct 2006)
+
+    RFE #1454559: Can now choose location(s) of featured photo blocks.
+    RFE #1101890: Click to enlarge now supported.
+    Complete rewrite for phpWebSite 1.0.0.  (0.10.x no longer supported)
+
+========================== PHPWEBSITE 0.10.X RELEASES =========================
+
+*featuredphoto-0.4.0 (07 Mar 2006)
+
+    Module now requires 0.10.1 because of bug in makeThumbnail in 0.10.0.
+    RFE #1388971: Added sanity checks when saving settings.
+    Placed requires better to help lower memory use.
+    Fixed an error case where image not deleted on initial save.
+    RFE #1101430: Help balloons added.
+    Changed view template to be XHTML Strict compliant
+
+*featuredphoto-0.3.0 (13 Jan 2005)
+
+    Added missing README file
+    RFE #1086214: Automatic resize (now requires phpWebSite >= 0.10.0)
+    Now prevents against overwriting when multiple tabs/windows are open.
+    Changed a few $_REQUEST vars to $_POST
+    Fixed JavaScript error in add/edit form when invoking Spell Check
+
+*featuredphoto-0.2.0 (29 Dec 2004)
+
+    RFE #1092717: Module permissions improved
+    RFE #1089793: Photo credit added
+    Updated INSTALL doc
+    Changed double quotes to single quotes for faster parsing
+    Changed to PHPWS_File::makeDir function - now requires phpWebSite >= 0.9.3-4
+    Removed deprecated defines
+
+*featuredphoto-0.1.1 (19 Nov 2004)
+
+    Now ready for phpWebSite 0.10.0
+
+*featuredphoto-0.1.0 (13 Jul 2004)
+
+    Initial version.
