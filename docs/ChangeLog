@@ -1,0 +1,52 @@
+# ChangeLog for featuredphoto
+# $Id: ChangeLog,v 1.14 2006/03/08 04:29:50 blindman1344 Exp $
+
+
+*featuredphoto-0.4.0 (07 Mar 2006)
+
+    05 Mar 2006; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Module now requires 0.10.1 because of bug in makeThumbnail in 0.10.0.
+    RFE #1388971: Added sanity checks when saving settings.
+    Placed requires better to help lower memory use.
+    Fixed an error case where image not deleted on initial save.
+    RFE #1101430: Help balloons added.
+
+    16 Oct 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Changed view template to be XHTML Strict compliant
+
+*featuredphoto-0.3.0 (13 Jan 2005)
+
+    13 Jan 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Added missing README file
+
+    12 Jan 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    RFE #1086214: Automatic resize (now requires phpWebSite >= 0.10.0)
+
+    10 Jan 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>
+    Now prevents against overwriting when multiple tabs/windows are open.
+    Changed a few $_REQUEST vars to $_POST
+
+    06 Jan 2005; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>:
+    Fixed JavaScript error in add/edit form when invoking Spell Check
+
+*featuredphoto-0.2.0 (29 Dec 2004)
+
+    29 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>:
+    RFE #1092717: Module permissions improved
+    RFE #1089793: Photo credit added
+    Updated INSTALL doc
+
+    28 Dec 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>:
+    Changed double quotes to single quotes for faster parsing
+    Changed to PHPWS_File::makeDir function - now requires phpWebSite >= 0.9.3-4
+    Removed deprecated defines
+
+*featuredphoto-0.1.1 (19 Nov 2004)
+
+    19 Nov 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>:
+    Now ready for phpWebSite 0.10.0
+
+*featuredphoto-0.1.0 (13 Jul 2004)
+
+    13 Jul 2004; Greg Meiste <blindman1344 [at] users dot sourceforge dot net>:
+    Development done and cutting featuredphoto-0.1.0

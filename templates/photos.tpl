@@ -1,0 +1,4 @@
+<!-- BEGIN MESSAGE -->
+{MESSAGE}<br />
+<!-- END MESSAGE -->
+{PHOTOS}

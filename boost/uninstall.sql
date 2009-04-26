@@ -1,0 +1,2 @@
+DROP TABLE mod_featuredphoto_photos;
+DROP TABLE mod_featuredphoto_settings;

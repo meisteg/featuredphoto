@@ -1,0 +1,36 @@
+# INSTALL for Featured Photo
+# $Id: INSTALL,v 1.5 2006/03/06 00:31:39 blindman1344 Exp $
+
+IMPORTANT: Featured Photo is a module for phpWebSite 0.10.1 or higher.  You
+have to install phpWebSite >= 0.10.1 first - Featured Photo will not work with
+earlier versions of phpWebSite. If you don't have phpWebSite installed,
+first get the latest code here:
+
+https://sourceforge.net/project/showfiles.php?group_id=15539
+
+Then follow the install instructions found in the INSTALL.txt included
+in the docs directory of that download.
+
+Once this is done then you can start installing Featured Photo:
+
+1. BACKUP YOUR DATABASE.
+
+2. Download the .tar.gz or .zip file from sourceforge and unpack it.
+
+3. Move the new directory into your phpwebsite mod directory.
+
+    Example: If your phpwebsite directory is /home/httpd/htdocs, you would run:
+
+    mv featuredphoto /home/httpd/htdocs/mod/featuredphoto
+
+4. Go to your phpWS website and install or upgrade "Featured Photo" from the
+   Boost module.
+
+   The module is now installed.  You can get there by going to "Control Panel"
+   and clicking on "Site Content".
+
+
+If you are having trouble with these procedures please file a Support Request at
+our sourceforge.net project site:
+
+http://sourceforge.net/tracker/?func=browse&group_id=81360&atid=706226

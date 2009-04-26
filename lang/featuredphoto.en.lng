@@ -1,0 +1,44 @@
+en:|:featuredphoto
+a:|:A photo name is required.:|:A photo name is required.
+a:|:Actions:|:Actions
+a:|:Add New Photo:|:Add New Photo
+a:|:Block mode:|:Block mode
+a:|:Caption:|:Caption
+a:|:Current Photos:|:Current Photos
+a:|:Delete:|:Delete
+a:|:Edit:|:Edit
+a:|:Edit Photo:|:Edit Photo
+a:|:Featured Photo Admin:|:Featured Photo Admin
+a:|:File:|:File
+a:|:Fixed on the image:|:Fixed on the image
+a:|:Hide:|:Hide
+a:|:Increment:|:Increment
+a:|:Homepage block title:|:Homepage block title
+a:|:List Photos:|:List Photos
+a:|:Name:|:Name
+a:|:New Photo:|:New Photo
+a:|:No active photo:|:No active photo
+a:|:Photo Credit:|:Photo Credit
+a:|:Photo Deleted:|:Photo Deleted
+a:|:Photo ID ([var1]) was not found in database:|:Photo ID ([var1]) was not found in database
+a:|:Photo Saved Successfully:|:Photo Saved Successfully
+a:|:pixels:|:pixels
+a:|:Random:|:Random
+a:|:Requires GD library:|:Requires GD library
+a:|:Resize images to fit inside:|:Resize images to fit inside
+a:|:Save Photo:|:Save Photo
+a:|:Save Settings:|:Save Settings
+a:|:Settings:|:Settings
+a:|:Settings saved successfully:|:Settings saved successfully
+a:|:Show:|:Show
+a:|:Show block on homepage:|:Show block on homepage
+a:|:Size:|:Size
+a:|:The file uploaded exceeded the max size allowed.:|:The file uploaded exceeded the max size allowed.
+a:|:The image uploaded was not an allowed image type.:|:The image uploaded was not an allowed image type.
+a:|:There was a problem saving to the database:|:There was a problem saving to the database
+a:|:There was a problem uploading the specified image.:|:There was a problem uploading the specified image.
+a:|:Type:|:Type
+a:|:Updated:|:Updated
+a:|:View:|:View
+a:|:You don't have permission to view this page:|:You don't have permission to view this page
+a:|:You need to specify a file to upload.:|:You need to specify a file to upload.

@@ -1,0 +1,5 @@
+add_photos::Add Photos
+edit_photos::Edit Photos
+delete_photos::Delete Photos
+show_hide_photos::Show/Hide Photos
+edit_settings::Edit Settings
