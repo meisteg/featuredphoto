@@ -9,8 +9,8 @@
  * This file strips out unneeded functionality from phpFlickr and was made usable
  * by phpWebSite.
  *
- * @author      Greg Meiste <blindman1344@NOSPAM.users.sourceforge.net>
- * @version     $Id: Flickr.php,v 1.3 2008/01/26 22:32:52 blindman1344 Exp $
+ * @package FeaturedPhoto
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 require_once 'HTTP/Request.php';

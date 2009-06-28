@@ -1,8 +1,6 @@
 <?php
 /**
- * featuredphoto
- *
- * See docs/AUTHORS and docs/COPYRIGHT for relevant info.
+ * Copyright (c) 2004-2009 Gregory Meiste
  *
  * This program is free software; you can redistribute it and/or modify
  * it under the terms of the GNU General Public License as published by
@@ -18,8 +16,8 @@
  * along with this program; if not, write to the Free Software
  * Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA  02111-1307  USA
  *
- * @author      Greg Meiste <blindman1344@NOSPAM.users.sourceforge.net>
- * @version     $Id: config.php,v 1.4 2008/03/30 14:18:17 blindman1344 Exp $
+ * @package FeaturedPhoto
+ * @author Greg Meiste <greg.meiste+github@gmail.com>
  */
 
 /* Default values when creating a photo block. */

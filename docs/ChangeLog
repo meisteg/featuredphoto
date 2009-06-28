@@ -1,8 +1,8 @@
-# ChangeLog for featuredphoto
-# $Id: ChangeLog,v 1.31 2008/03/30 14:18:18 blindman1344 Exp $
-
+ChangeLog for Featured Photo
 
 ========================== PHPWEBSITE 1.X.X RELEASES ==========================
+
+    RFE #2: Replace references to SourceForge with GitHub.
 
 *featuredphoto-1.2.1 (30 Mar 2008)
 

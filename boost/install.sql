@@ -1,5 +1,3 @@
--- $Id: install.sql,v 1.12 2008/01/26 18:03:52 blindman1344 Exp $
-
 CREATE TABLE featuredphoto_photos (
   id INT NOT NULL,
   block_id INT NOT NULL,
